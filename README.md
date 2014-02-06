@@ -1,6 +1,6 @@
 # The Web Wins
 
-We are creating web art. If you love the web too join **Candlestick**, because creating art it a group of awesome people makes more fun! 
+We are creating web art. If you love the web too join **Candlestick**, because creating art in a group of awesome people makes it more fun! 
 
 
 
