@@ -9,4 +9,5 @@ We are creating web art. If you love the web too join **Candlestick**, because c
 
 ## Sketch of the idea
 
-[redpen.io/dhm62r](https://redpen.io/dhm62r)
+- [Concept overview](https://redpen.io/dhm62r)
+- [Movable projectors](https://redpen.io/v3a571)
