@@ -1,4 +1,4 @@
-![Candlestick Logo](https://i.cloudup.com/lV4GgaJ4HU-3000x3000.jpeg)
+![Candlestick Logo](https://i.cloudup.com/dsLueKJvq3-3000x3000.png)
 
 # The Web Wins
 
