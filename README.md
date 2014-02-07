@@ -62,5 +62,6 @@ We are currently looking for
 - CSS 3D / Canvas / WebGL pros
 
 
+---
 
-### 2014 by Candlestick
+#### 2014 by Candlestick
