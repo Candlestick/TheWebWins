@@ -18,6 +18,15 @@ Creating a unified way to control all the devices you want with one single maste
 
 
 
+## Some examples, please?
+
+- Change the projection based on detected persons in the room using kinect
+- Play music, show the name of the artist, create visuals based on the music and use the led to flash like it's in a club or concert
+- Picking one person in the room via webcam / kinect and playing a game with this person
+- Use connected mobile devices from the people in the room to vote for changes in the UI (WebSockets + NFC)
+
+
+
 ## Devices? 
 
 - Sensor (Motion, Temperature, Brightness, Loudness)
