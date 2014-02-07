@@ -1,4 +1,4 @@
-# The Web Wins
+# The Web Wins (TWW)
 
 Everything we do is for the web, because the web is awesome. But we want more. 
 
@@ -31,8 +31,8 @@ Creating a unified way to control all the devices you want with one single maste
 
 ## Do you have any sketches? 
 
-- [Concept overview](https://redpen.io/dhm62r)
-- [Movable projectors](https://redpen.io/v3a571)
+- [TWW/Concept](https://redpen.io/dhm62r)
+- [TWW/Projector](https://redpen.io/v3a571)
 
 
 
