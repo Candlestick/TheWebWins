@@ -6,7 +6,7 @@ Everything we do is for the web, because the web is awesome. But we want more.
 
 ![Candlestick Logo](https://i.cloudup.com/dsLueKJvq3-3000x3000.png)
 
-A group of people from the interwebs creating the next gen API to close the gab between different kind of devices and a web app to controll all of them at the same time. 
+A group of random strangers from the interwebs creating the next gen API to close the gab between different kind of devices and a web app to controll all of them at the same time. 
 
 ---
 
