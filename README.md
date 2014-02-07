@@ -80,6 +80,16 @@ We are currently looking for
 - CSS 3D / Canvas / WebGL pros
 - SCSS gurus to create a region / shapes / flexbox powered frontend for the offical page [candlestick.io](http://candlestick.io)
 
+-> Open an issue and use the label `heyMyNameIs`. 
+
+- Who are you? 
+- What are you doing now? 
+- Why do you love the web? 
+- What are your 3 favorite technologies to develop for the web? 
+- What do you want to contribute to TWW? 
+- Give us 3+ ideas how you would use TWW to create which visual effect? (Bonus)
+
+Don't forget to give us all the social links you want to share. (Bonus) 
 
 ---
 
