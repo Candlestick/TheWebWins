@@ -6,7 +6,7 @@ Everything we do is for the web, because the web is awesome. But we want more.
 
 Hi, we are **Candlestick**!
 
-A group of people from the interwebs creating the next gen API to close the gab between hardware sensors, projectors, led, nfc, kinect. 
+A group of people from the interwebs creating the next gen API to close the gab between hardware sensors, projectors, led, nfc, kinect and a web app to controll all of them at the same time. 
 
 
 ## What does that mean? 
