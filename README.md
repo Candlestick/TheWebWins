@@ -29,7 +29,14 @@ Creating a unified way to control all the devices you want with one single maste
 
 
 
-## And how can you do that?  
+## Do you have any sketches? 
+
+- [Concept overview](https://redpen.io/dhm62r)
+- [Movable projectors](https://redpen.io/v3a571)
+
+
+
+## And how can you implement that?  
 
 We are using the latest web shizzle to create an army before the Winter comes!
 
@@ -56,11 +63,4 @@ We are currently looking for
 
 
 
-
-
-
-
-## Sketch of the idea
-
-- [Concept overview](https://redpen.io/dhm62r)
-- [Movable projectors](https://redpen.io/v3a571)
+### 2014 by Candlestick
