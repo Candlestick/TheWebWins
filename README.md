@@ -78,6 +78,7 @@ We are currently looking for
 
 - Node.js masterminds
 - CSS 3D / Canvas / WebGL pros
+- Game developer
 - SCSS gurus to create a region / shapes / flexbox powered frontend for the offical page [candlestick.io](http://candlestick.io)
 
 -> Open an issue and use the label [heyMyNameIs](https://github.com/Candlestick/TheWebWins/issues?labels=heyMyNameIs). 
