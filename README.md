@@ -1,5 +1,9 @@
 ![Candlestick Logo](https://i.cloudup.com/dsLueKJvq3-3000x3000.png)
 
+**presents**
+
+---
+
 # The Web Wins
 
 Everything we do is for the web, because the web is awesome. But we want more. 
@@ -8,6 +12,7 @@ Hi, we are **Candlestick**!
 
 A group of people from the interwebs creating the next gen API to close the gab between different kind of devices and a web app to controll all of them at the same time. 
 
+---
 
 
 ## What does that mean? 
