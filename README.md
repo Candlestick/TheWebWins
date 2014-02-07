@@ -8,6 +8,8 @@ Everything we do is for the web, because the web is awesome. But we want more.
 
 A group of random strangers from the interwebs creating the next gen API to close the gab between different kind of devices and a web app to controll all of them at the same time. 
 
+[@CandlestickIO](http://twitter.com/CandlestickIO)
+
 ---
 
 ## What does that mean? 
