@@ -78,6 +78,7 @@ We are currently looking for
 
 - Node.js masterminds
 - CSS 3D / Canvas / WebGL pros
+- SCSS gurus to create a region / shapes / flexbox powered frontend for the offical page [candlestick.io](http://candlestick.io)
 
 
 ---
