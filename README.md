@@ -2,7 +2,32 @@
 
 # The Web Wins
 
-We are creating web art. If you love the web too join **Candlestick**, because creating art in a group of awesome people makes it more fun! 
+Everything we do is for the web, because the web is awesome. But we want more. 
+
+Hi, we are **Candlestick**!
+
+A group of people from the interwebs creating the next gen API to close the gab between hardware sensors, projectors, led, nfc, kinect. 
+
+
+## What does that mean? 
+
+Creating a unified way to control all the devices you want with one single master pc trough a REST API or a visuall UI
+ 
+
+## Why are you doing this?
+
+We want to win the $25k and make this project in real. 
+
+
+## Teamstatus? 
+
+We are currently looking for 
+
+- Node.js masterminds
+- CSS 3D / Canvas / WebGL pros
+
+
+
 
 
 
