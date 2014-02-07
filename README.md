@@ -80,7 +80,7 @@ We are currently looking for
 - CSS 3D / Canvas / WebGL pros
 - SCSS gurus to create a region / shapes / flexbox powered frontend for the offical page [candlestick.io](http://candlestick.io)
 
--> Open an issue and use the label `heyMyNameIs`. 
+-> Open an issue and use the label [heyMyNameIs](https://github.com/Candlestick/TheWebWins/issues?labels=heyMyNameIs). 
 
 - Who are you? 
 - What are you doing now? 
