@@ -64,4 +64,4 @@ We are currently looking for
 
 ---
 
-#### 2014 by Candlestick
+#### 2014 by [Candlestick](http://twitter.com/CandlestickIO)
