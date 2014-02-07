@@ -36,7 +36,7 @@ We are using the latest web shizzle to create an army before the Winter comes!
 - Frontend: Angular or React
 - Middleware: Node.js (Express, socket.io, Mongoose)
 - Database: MongoDB
-- Connected Workers (local WiFi): Node.js
+- Connected Workers (local private WiFi): Node.js
 - Build: Grunt
 - Unit-Tests: Jasmine
  
