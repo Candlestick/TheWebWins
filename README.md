@@ -16,7 +16,7 @@ Creating a unified way to control all the devices you want with one single maste
 
 ## Why are you doing this?
 
-We want to win the $25k and make this project in real. 
+We want to win the $25k from [Google DevArt](https://devart.withgoogle.com/#/) and make this project in real. 
 
 
 ## Teamstatus? 
