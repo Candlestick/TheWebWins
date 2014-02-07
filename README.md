@@ -11,7 +11,7 @@ A group of people from the interwebs creating the next gen API to close the gab 
 
 ## What does that mean? 
 
-Creating a unified way to control all the devices you want with one single master pc through a REST API or a visuall UI
+Creating a unified way to control all the devices you want with one single master pc through a REST API and a visuall UI in the browser of your choice. 
  
 
 ## Why are you doing this?
