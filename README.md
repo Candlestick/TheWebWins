@@ -34,6 +34,8 @@ Creating a unified way to control all the devices you want with one single maste
 
 ## Do you have any sketches? 
 
+:hover / click the images to see comments:
+
 - [TWW/Concept](https://redpen.io/dhm62r)
 - [TWW/Projector](https://redpen.io/v3a571)
 
